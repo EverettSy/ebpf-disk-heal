@@ -1,0 +1,4 @@
+/agent
+/*.bpf.o
+/bpf/vmlinux.h
+/bpf/vmlinux.h.tmp
